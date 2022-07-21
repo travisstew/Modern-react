@@ -1,0 +1,24 @@
+
+{
+  "blogs":[
+  {
+    "title": "new blog", "body":"lorem ipsum .... ", "author": "stew", "id": 1
+  },
+  {
+    "title": "new dog", "body":"lorem ipsum .... ", "author": "friday", "id": 2
+  },
+  {
+    "title": "new bd", "body":"lorem ipsum .... ", "author": "zarriah", "id": 3
+  },
+  {
+    "title": "new dsfalkjj", "body":"lorem ipsum .... ", "author": "ashley", "id": 4
+  },
+  {
+    "title": "new dsfalkjj", "body":"lorem ipsum .... ", "author": "ashley", "id": 5
+  },
+  {
+    "title": "new dsfalkjj", "body":"lorem ipsum .... ", "author": "ashley", "id": 6
+  }
+
+]
+}

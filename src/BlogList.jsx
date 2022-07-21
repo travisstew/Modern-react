@@ -2,7 +2,7 @@ import React from 'react'
 import {useState} from 'react';
 
 
-function BlogList({blogs, handleDelete}) {
+function BlogList({blogs}) {
   
   
   return (
@@ -11,7 +11,7 @@ function BlogList({blogs, handleDelete}) {
           <div className="blog-preview" key={blog.id}>
           <h2>{blog.title}</h2>
           <p>{blog.author}</p>
-          <button onClick={()=> handleDelete(blog.id)}>delete blog</button>
+         
 
           </div>
 
